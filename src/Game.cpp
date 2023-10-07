@@ -1,5 +1,4 @@
 #include "Game.h"
-#include <limits>
 
 void Game::fill(unsigned int pawnCount, unsigned int knightCount, unsigned int bishopCount, unsigned int rookCount)
 {
